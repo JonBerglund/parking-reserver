@@ -1,0 +1,22 @@
+{
+    "hello": "שלום",
+    "JANUARY": "ינואר",
+    "FEBRUARY": "פברואר",
+    "MARCH": "מרץ",
+    "APRIL": "אפריל",
+    "MAY": "מאי",
+    "JUNE": "יוני",
+    "JULY": "יולי",
+    "AUGUST": "אוגוסט",
+    "SEPTEMBER": "ספטמבר",
+    "OCTOBER": "אוקטובר",
+    "NOVEMBER": "נובמבר",
+    "DECEMBER": "דצמבר",
+    "SUN": "א",
+    "MON": "ב",
+    "TUE": "ג",
+    "WED": "ד",
+    "THU": "ה",
+    "FRI": "ו",
+    "SAT": "ש"
+}
